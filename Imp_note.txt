@@ -1,0 +1,9 @@
+I had some family emergency, hence I had very little time.
+Thus I have made the app functional using command line arguments.
+
+To add a blog: node app.js add --title="" --author="" --date="" --body=""
+To read a blog: node app.js remove --title=""
+To update a blog: node app.js update --title="" --body="new body"
+To remove a blog: node app.js update --title=""
+
+I will still be completing the app and will upload the changes if you guys please give me a little bit of time.
